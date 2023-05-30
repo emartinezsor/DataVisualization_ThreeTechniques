@@ -1,4 +1,4 @@
-# M2.859 Visualizacion de datos con tres técnicas
+# Visualizacion de datos con tres técnicas
 
 Asignatura M2.859 Visualizacion de datos de la Maestria de Ciencia de Datos de la Universitat Oberta de Catalunya
 
